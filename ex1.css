@@ -1,0 +1,36 @@
+#head1{
+    text-align: center;
+    color: black;
+    font-size: 50px;
+}
+
+#para1{
+    border : 5px dotted;
+    border-color: green purple black blue;
+    text-indent: 35px;
+    text-align: justify;
+}
+
+input#input1[type=text]{
+    background-color: yellow;
+    color: purple;
+/* How to apply width andf height*/
+}
+
+#para2{
+    text-decoration: underline overline;
+}
+
+#a1{
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#head3{
+    text-align: center;
+    font-size: xx-large;
+}
+
+#head3 span{
+    font-variant: small-caps;
+}

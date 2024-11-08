@@ -1,0 +1,18 @@
+/* RGB COLOR EXAMPLE */
+h3{
+    color: rgb(0, 155, 355);
+}
+
+/* HEX COLOR EXAMPLE */
+h4{
+    color: #dfa80f;
+}
+
+h5{
+    color: #0f0;
+}
+
+/* RGBA COLOR EXAMPLE */
+body{
+    background-color: rgba(245, 245, 220, 0.85);
+}
